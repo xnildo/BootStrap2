@@ -1,0 +1,29 @@
+.cor-fonte{
+    color: rgb(124, 44, 228) !important;
+}
+.tm-icone{
+    width: 50px;
+    height: 50px;
+}
+.tamanho{
+    width: 1800px;
+    height: 600px;
+    background-image: url(https://criticalhits.com.br/wp-content/uploads/2020/05/my-hero-academia-1.jpg) ;
+    background-repeat: no-repeat, repeat;
+}
+.alturaCard{
+    height: 80%;
+}
+
+.bg-color{
+    background-color: rgb(136, 29, 10);
+}
+
+.tm-img{
+    width: 100px;
+    height: 300px;
+}
+
+.mt-iframe{
+    margin-top: 200px;
+}
